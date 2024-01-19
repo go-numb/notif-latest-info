@@ -3,7 +3,7 @@
 Google Functionsにおいた関数で必要情報を取得し、通知する
 
 ## Usage
-In case of LINE:
+In case of LINE:  
 getenv: LINE_CHANNEL_TOKEN
 
 
